@@ -1,0 +1,15 @@
+2022/11/14-07:26:23.657 2bc4 Reusing MANIFEST /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_chat.zalo.me_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/14-07:26:23.658 2bc4 Recovering log #3
+2022/11/14-07:26:23.701 2bc4 Reusing old log /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_chat.zalo.me_0.indexeddb.leveldb/000003.log 
+2022/11/14-07:26:28.294 33ed Level-0 table #5: started
+2022/11/14-07:26:28.334 33ed Level-0 table #5: 1360041 bytes OK
+2022/11/14-07:26:28.337 33ed Delete type=0 #3
+2022/11/14-07:26:33.278 340f Level-0 table #7: started
+2022/11/14-07:26:33.311 340f Level-0 table #7: 1501672 bytes OK
+2022/11/14-07:26:33.320 340f Delete type=0 #4
+2022/11/14-07:27:34.002 340f Compacting 1@1 + 1@2 files
+2022/11/14-07:27:34.059 340f Generated table #8@1: 16830 keys, 1219330 bytes
+2022/11/14-07:27:34.059 340f Compacted 1@1 + 1@2 files => 1219330 bytes
+2022/11/14-07:27:34.061 340f compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/11/14-07:27:34.062 340f Delete type=2 #7
+2022/11/14-07:27:34.062 340f Delete type=2 #5

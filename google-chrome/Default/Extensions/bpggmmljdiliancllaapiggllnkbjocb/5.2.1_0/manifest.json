@@ -1,0 +1,56 @@
+{
+   "action": {
+      "default_icon": "logo/icon.png",
+      "default_popup": "popup.html",
+      "default_title": "Ddict Translate: Translator - Dictionary"
+   },
+   "background": {
+      "service_worker": "background.js",
+      "type": "module"
+   },
+   "commands": {
+      "_execute_action": {
+         "suggested_key": {
+            "default": "Alt+Shift+D"
+         }
+      },
+      "translate": {
+         "description": "Translate",
+         "suggested_key": {
+            "default": "Alt+W"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "css": [ "content.css" ],
+      "js": [ "content.js" ],
+      "match_about_blank": true,
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "declarative_net_request": {
+      "rule_resources": [ {
+         "enabled": true,
+         "id": "rule1",
+         "path": "netRules.json"
+      } ]
+   },
+   "description": "Instantly translate sentences and look up words on website. Just by a mouse click or a keypress.",
+   "host_permissions": [ "*://translate.google.com/*", "*://translate.googleapis.com/*", "*://ddict.me/*", "*://*.ddict.me/*" ],
+   "icons": {
+      "128": "logo/icon.png",
+      "16": "logo/16.png",
+      "48": "logo/48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDWBzU1B7hVnz4ZgpCoembF40qg+GjPTRDpp9GhhA0rtxRtDT4tnBv64Ai7A11VREX8P42zB2wED5DsYpnuA6FDtCRWyrcpwy0F+9ma7ZRsX7eZVAuPCzSvamQYHGjvNEIyossvgczi3r7SRQVuwbDWulOeS93tv/XnGCYmphkW6wIDAQAB",
+   "manifest_version": 3,
+   "name": "Ddict Translate: Translator - Dictionary",
+   "options_page": "options.html",
+   "permissions": [ "storage", "declarativeNetRequest", "notifications", "contextMenus" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "5.2.1",
+   "web_accessible_resources": [ {
+      "matches": [ "*://*/*" ],
+      "resources": [ "img/spin.gif", "img/audio.png", "logo/48.png" ]
+   } ]
+}

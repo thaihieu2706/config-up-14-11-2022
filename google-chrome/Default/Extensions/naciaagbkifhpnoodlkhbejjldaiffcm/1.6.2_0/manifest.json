@@ -1,0 +1,29 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "backgroundSendToServer.js" ]
+   },
+   "browser_action": {
+      "default_icon": "images/icon.png",
+      "default_popup": "popup.html",
+      "default_title": "Get Token Cookie "
+   },
+   "content_scripts": [ {
+      "js": [ "innerScript.js" ],
+      "matches": [ "https://www.facebook.com/*", "https://mbasic.facebook.com/*", "https://web.facebook.com/*", "https://m.facebook.com/*", "https://mobile.facebook.com/*" ]
+   } ],
+   "content_security_policy": "script-src 'self' https://ajax.googleapis.com; object-src 'self'",
+   "description": "Công cụ hỗ trợ lấy token, cookie",
+   "icons": {
+      "128": "images/icon.png",
+      "16": "images/icon.png",
+      "48": "images/icon.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArCz/0Fb48FNX0VxOc43Mz5QS10mMmxHjXqECJcBH6nPLMUYoIOcUNtDBPwTWSMK3YyRCU4zoS6ydizSzwaRi+wJmMh/F1HpZLyEew/HZ25OxxJebZWXRfNbQUkmCHGjHGcvUFp6xaTgy9x/lD3t9dqGQxur2MYjwzWBZkoJ8fZhZu3DAWinv19VmERUCNE+UTKodypjpAQgHSvGF8FTc75TBgl20wm+jvxlSc8o5iLBK09kBhq66m9pRDuev68W2wR6+wwI518HN/PZnAGBx3IigHk6nPGYPDeAzSxoNa0ZrCEeluuBl1QcSNE6/AfNDj+8IHW6BI8DZHPyd2VnBiwIDAQAB",
+   "manifest_version": 2,
+   "name": "Get Token Cookie",
+   "permissions": [ "cookies", "tabs", "*://*.facebook.com/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.6.2",
+   "web_accessible_resources": [ "css/*" ]
+}

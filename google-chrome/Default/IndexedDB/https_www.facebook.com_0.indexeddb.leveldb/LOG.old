@@ -1,0 +1,23 @@
+2022/11/14-07:07:32.886 3f6 Reusing MANIFEST /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/14-07:07:32.886 3f6 Recovering log #22
+2022/11/14-07:07:32.889 3f6 Reusing old log /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/000022.log 
+2022/11/14-07:07:41.511 3f3 Level-0 table #27: started
+2022/11/14-07:07:41.514 3f3 Level-0 table #27: 79992 bytes OK
+2022/11/14-07:07:41.516 3f3 Delete type=0 #22
+2022/11/14-07:07:41.516 3f3 Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/11/14-07:07:43.340 3c4 Compacting 1@1 + 1@2 files
+2022/11/14-07:07:43.359 3c4 Generated table #28@1: 2872 keys, 216819 bytes
+2022/11/14-07:07:43.359 3c4 Compacted 1@1 + 1@2 files => 216819 bytes
+2022/11/14-07:07:43.362 3c4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/11/14-07:07:43.362 3c4 Delete type=2 #24
+2022/11/14-07:07:43.362 3c4 Delete type=2 #27
+2022/11/14-07:08:04.859 3f9 Level-0 table #30: started
+2022/11/14-07:08:04.862 3f9 Level-0 table #30: 68733 bytes OK
+2022/11/14-07:08:04.863 3f9 Delete type=0 #26
+2022/11/14-07:08:04.864 3f9 Manual compaction at level-0 from '\x00\x0b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/11/14-07:08:06.009 3f3 Compacting 1@1 + 1@2 files
+2022/11/14-07:08:06.018 3f3 Generated table #31@1: 2882 keys, 217120 bytes
+2022/11/14-07:08:06.019 3f3 Compacted 1@1 + 1@2 files => 217120 bytes
+2022/11/14-07:08:06.021 3f3 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/11/14-07:08:06.021 3f3 Delete type=2 #30
+2022/11/14-07:08:06.021 3f3 Delete type=2 #28

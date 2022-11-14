@@ -1,0 +1,6 @@
+2022/11/13-22:44:36.112 93e Creating DB /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_shopee.vn_0.indexeddb.leveldb since it was missing.
+2022/11/13-22:44:36.116 93e Reusing MANIFEST /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_shopee.vn_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/13-22:44:36.130 396 Level-0 table #5: started
+2022/11/13-22:44:36.132 396 Level-0 table #5: 615 bytes OK
+2022/11/13-22:44:36.134 396 Delete type=0 #3
+2022/11/13-22:44:36.134 396 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

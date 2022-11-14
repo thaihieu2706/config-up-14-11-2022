@@ -1,0 +1,6 @@
+2022/11/12-06:13:39.818 12be8 Creating DB /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_app.tabnine.com_0.indexeddb.leveldb since it was missing.
+2022/11/12-06:13:39.831 12be8 Reusing MANIFEST /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_app.tabnine.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/12-06:14:15.680 1476c Level-0 table #5: started
+2022/11/12-06:14:15.684 1476c Level-0 table #5: 7495 bytes OK
+2022/11/12-06:14:15.688 1476c Delete type=0 #3
+2022/11/12-06:14:15.689 1476c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

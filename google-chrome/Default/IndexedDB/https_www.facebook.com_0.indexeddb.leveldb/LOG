@@ -1,0 +1,13 @@
+2022/11/14-07:28:46.278 3dbb Reusing MANIFEST /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/14-07:28:46.278 3dbb Recovering log #29
+2022/11/14-07:28:46.285 3dbb Reusing old log /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/000029.log 
+2022/11/14-07:28:52.790 3d2a Level-0 table #34: started
+2022/11/14-07:28:52.793 3d2a Level-0 table #34: 121013 bytes OK
+2022/11/14-07:28:52.795 3d2a Delete type=0 #29
+2022/11/14-07:28:52.795 3d2a Manual compaction at level-0 from '\x00\x0c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/11/14-07:28:53.091 3d28 Compacting 1@1 + 1@2 files
+2022/11/14-07:28:53.100 3d28 Generated table #35@1: 2988 keys, 225817 bytes
+2022/11/14-07:28:53.100 3d28 Compacted 1@1 + 1@2 files => 225817 bytes
+2022/11/14-07:28:53.102 3d28 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/11/14-07:28:53.102 3d28 Delete type=2 #31
+2022/11/14-07:28:53.102 3d28 Delete type=2 #34

@@ -1,0 +1,12 @@
+2022/11/14-00:26:06.450 3bcf Reusing MANIFEST /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/14-00:26:06.450 3bcf Recovering log #11
+2022/11/14-00:26:06.471 3bcf Reusing old log /home/thaihieu/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000011.log 
+2022/11/14-00:47:00.234 622e Level-0 table #16: started
+2022/11/14-00:47:00.254 622e Level-0 table #16: 1163784 bytes OK
+2022/11/14-00:47:00.257 622e Delete type=0 #11
+2022/11/14-00:47:43.926 622c Compacting 1@1 + 1@2 files
+2022/11/14-00:47:43.947 622c Generated table #17@1: 518 keys, 33579 bytes
+2022/11/14-00:47:43.947 622c Compacted 1@1 + 1@2 files => 33579 bytes
+2022/11/14-00:47:43.949 622c compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/11/14-00:47:43.949 622c Delete type=2 #16
+2022/11/14-00:47:43.949 622c Delete type=2 #13

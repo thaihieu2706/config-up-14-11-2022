@@ -1,0 +1,208 @@
+{
+   "checksum": "6b98f9af721d7c03e11b9ab7d1f32aae",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13312677207576857",
+            "date_last_used": "13312723886531807",
+            "guid": "4f60adc5-e441-4a43-a3db-9a81b0274f19",
+            "id": "9",
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13312677207580143",
+            "date_last_used": "0",
+            "guid": "14a2753a-171e-48ae-a454-a9069b969e73",
+            "id": "10",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13297677501309857",
+            "date_last_used": "13312860205798424",
+            "guid": "fb9f616c-244f-45bd-a6de-84ae8cdcb415",
+            "id": "11",
+            "name": "Dịch",
+            "type": "url",
+            "url": "https://translate.google.com/"
+         }, {
+            "date_added": "13278338292040294",
+            "date_last_used": "13312723855315789",
+            "guid": "73c662d0-317a-4758-b22e-37e850a0633c",
+            "id": "12",
+            "name": "Cổng thông tin Đại học Duy Tân - Đà Nẵng - Việt Nam",
+            "type": "url",
+            "url": "https://mydtu.duytan.edu.vn/Signin.aspx"
+         }, {
+            "date_added": "13299698428305234",
+            "date_last_used": "0",
+            "guid": "73c2c598-dfce-43d5-8e39-8b1281753038",
+            "id": "13",
+            "name": "Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali: OccupyTheWeb: 9781593278557: Books - Amazon",
+            "type": "url",
+            "url": "https://www.amazon.com/Linux-Basics-Hackers-Networking-Scripting/dp/1593278551"
+         }, {
+            "date_added": "13299926397706455",
+            "date_last_used": "0",
+            "guid": "e103394a-d2f2-43ca-946c-ad521e729fd8",
+            "id": "14",
+            "name": "100 Lời dạy của Khổng Tử, Lão Tử, Tào Tháo và Trang Tử giúp bạn thay đổi cuộc sống mở rộng tấm lòng - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=T030WCukkkM"
+         }, {
+            "date_added": "13305594207063121",
+            "date_last_used": "0",
+            "guid": "7c41321f-94ea-4bf9-8377-c413bccce527",
+            "id": "15",
+            "name": "Blog | hackers-arise",
+            "type": "url",
+            "url": "https://www.hackers-arise.com/"
+         }, {
+            "date_added": "13305974075270443",
+            "date_last_used": "0",
+            "guid": "cdcca389-307f-4c1a-b412-01697e3d268d",
+            "id": "16",
+            "name": "Bản Nhạc Cổ Điển Trung Quốc Bất Hủ Hay Nhất - Bạn Sẽ Phải Hối Hận Nếu Không Nghe Những Bản Nhạc Này - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=-sF0r7U8j4o&ab_channel=%E5%8F%A4%E5%85%B8%E9%9F%B3%E6%A8%82-ChineseMusic"
+         }, {
+            "date_added": "13306448495144929",
+            "date_last_used": "0",
+            "guid": "9063e6e4-1ea2-482d-9b10-27612995579b",
+            "id": "17",
+            "name": "Thời Gian Sẽ Trả Lời REMIX 🎵 Rồi Phải Đến Lúc Em Đổi Khác Đi Soi Gương Lâu Hơn Mỗi Ngày ..! - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=ngziMrXfG_c&ab_channel=H%E1%BB%93ngS%C6%A1nNonstop"
+         }, {
+            "date_added": "13312094900067010",
+            "date_last_used": "0",
+            "guid": "171c0168-1243-4c82-8a89-4bb8e4de0a56",
+            "id": "18",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Have Fun with Python [01]: Cày view #Youtube với #Python (Học lập trình Python qua Fun Projects) - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=XSQT9RBKoCs"
+         }, {
+            "date_added": "13312094982157847",
+            "date_last_used": "0",
+            "guid": "bb4dc8bf-bd4e-4cee-9857-02de81cb091c",
+            "id": "19",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Selenium Python - Click a page element - Part 2 - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=mU1gVBYFuOk&ab_channel=datyrlab"
+         }, {
+            "date_added": "13312127177732268",
+            "date_last_used": "0",
+            "guid": "bc7374b1-0512-44e3-b2a5-c0ee94a9a4f5",
+            "id": "20",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(1) [VietSub+Effect] Until You - Shayne Ward - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=e9oxsf3NWMs&ab_channel=%C4%90%E1%BB%A9cNguy%E1%BB%85n"
+         }, {
+            "date_added": "13312127194204894",
+            "date_last_used": "0",
+            "guid": "e9184926-61f7-40c4-93e2-054bd10d30e5",
+            "id": "21",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(1) Why Not Me - Enrique Iglesias [Lyric + Kara] 1080 HD - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=GyrH6xiFiT0&ab_channel=Th%C3%A0nh%C4%90%E1%BA%A1i"
+         }, {
+            "date_added": "13312127215874366",
+            "date_last_used": "0",
+            "guid": "197d2361-58dd-4c8c-80e8-fd444168d57f",
+            "id": "22",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(1) Shane Filan - Beautiful In White (Official Video) - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=06-XXOTP3Gc&ab_channel=ShaneFilanVEVO"
+         }, {
+            "date_added": "13312127276035061",
+            "date_last_used": "0",
+            "guid": "c361e1db-f40f-4bdd-b2c0-734610b7a5cc",
+            "id": "23",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(1) Broken Angel | Arash ft Helena | [MV Lyrics + Vietsub] - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=594xkwjof08&ab_channel=Th%C3%A0nhNguy%E1%BB%85n"
+         }, {
+            "date_added": "13312127294874954",
+            "date_last_used": "0",
+            "guid": "72c6ae77-8439-45a4-a98c-771a9a9b893b",
+            "id": "24",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(1) Lucky - Lucky Twice (Live) [Vietsub + Lyrics] - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=-BMHokib2tQ&ab_channel=S%C6%A1nL%C3%AA"
+         }, {
+            "date_added": "13312127325578516",
+            "date_last_used": "0",
+            "guid": "565dfd4f-e2b0-4c0c-aab1-3e592ab35dd1",
+            "id": "25",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(1) Lenka - Trouble Is A Friend (Lyrics) - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=7zt756yYhDg&ab_channel=Cakes%26Eclairs"
+         }, {
+            "date_added": "13312593727070245",
+            "date_last_used": "13312741460225720",
+            "guid": "884c526b-7199-4b85-b982-09d247ca9e9b",
+            "id": "26",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "LunarVim - Installing Rolling Release, Walkthrough, Sample Configuration (IDE for Neovim) - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=NlRxRtGpHHk&t=868s&ab_channel=chris%40machine"
+         } ],
+         "date_added": "13312677202865985",
+         "date_last_used": "0",
+         "date_modified": "13312677208847020",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13312677202865992",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13312677202865993",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CtABCq8BCIiBAhKYARI8CAISOAoGCgJibRABEDMaEgmAhsdxY+0FACGAhsdxY+0FADIYChYIAhFQ+7yBY+0FABgAIQAAAAAAAAAAIABIruTXnMcwcJrs/+PGMJIBRwpFChZhbm5vdGF0aW9uX2Nocm9tZV9zeW5jEgU1MSFiZBoSCYAbgnxj7QUAEYAbgnxj7QUAKYgSvYFj7QUAMIC3iOS3rPsCKg4QABgBIAAoADAAOABAABIAIAEqGFBHQWlxSjQxVjNMcHNHcC9rcmo1NEE9PRLDAQgDEr4BChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EmZaOkFEcXRBWndlWjdVSGtKNGk4SXpLQ3FMVC9mTUFIK1E2RVFQaUMvcE1Pc21aTThYUmg2UnNPTWwxTThOeW8wcFZqazVhUmdZV2VzbGtEU1NXRW0zYVNVK0RzcEgybTZMTkt3PT0YACAAKAAw3NmZ8I6n+wI4AEAAShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAABL0AQgVEu8BChx5ZEduc1ZEWjQwODd0RjBKNmtaKzdNa0NST0U9EmZaOkFEcXRBWndQY0dmaVErY1ZLdVl6MWZhNHRlWXRJdzY1amZVeXYyNk9rejFQWWczaHZLUmpSR1c4TkxkL1ZmNlV3b2hleitzbDVldmN2VHJreExDZmJuMysyUDUyNjN1VERRPT0YACACKAIwuPvUufqo+wI44diZv8QwQIKR0uPGMEocM25lSXdrVWtiUmVTU2p4VURMZXIzK0I3NmFZPVonIiX/////AAAACdxkTGg5dklKSUE5aGY3bnUyM2ZaNjlRMk9JSFE9ZTj5OTMSwwEIAhK+AQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRJmWjpBRHF0QVp3MW5zTFNEV0RNR0llcm45SmtzalJ1VFNCRFEwd1I3aUhVMUdGUEVHc1REZXZ3YjBwQmloQnd3N0I1d2NWNU5md3J5NzBnalNmcWFyZWJzRkR4dzVFVHBJUVcxdz09GAAgACgAMNzZmfCOp/sCOABAAEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAAS9AEIDxLvAQocYkYwS3J6by95TFhobS91ZGxkZnF1ZzQxOUJBPRJmWjpBRHF0QVp3UGNHZmlRK2NWS3VZejFmYTR0ZVl0RUlWT0JoODh3b0k1b1FvQmZIYzJMYjU2Y3BmQTV2T3NKanNJSVgxYkRTQ1B6RWRRMDh2K1NuakhTbkdpUzI2RHFIWGlkUT09GAAgAigCMLj71Ln6qPsCONjmg5SsMECCkdLjxjBKHHozQytpcjhIMG5LejhSSHVROFF2bmVSQ3F0MD1aJyIl/////wAAAAjuSjJXdXBmcDNyK3QxYmZ0S293RnlvdkpJNTE4PWXzeFFnEvQBCBQS7wEKHGQ4dmRCejlVVnV2ZHIxdm1GWU9GSE93ZVRmbz0SZlo6QURxdEFad1BjR2ZpUStjVkt1WXoxZmE0dGVZdEVuUlJZUThQVHo5eUU4MzRhQm54ZmI2UkNBekp1eExQWUR1OGNGWitWMGE4c0xEVEovWDFOYW5lZlhvek5FemhSUVlaQnc9PRgAIAIoAjC4+9S5+qj7Ajib2Ji/xDBAgpHS48YwShxUbitvWFNPU3Y0VmtreUE2MzRUMGJNcy96T1E9WiciJf////8AAAAJuG5CS1JkNVJDY3FwL3BzODlYNHEzNExpSkcvcz1lOPk5MxL0AQgNEu8BChxXNDAyQm9ieXExck9sR0NJVmwxVjFvTFZmQjQ9EmZaOkFEcXRBWndQY0dmaVErY1ZLdVl6MWZhNHRlWXRVYmNqdHBhcWUvYjN0RWwwYjY0aXZGV2R4cGx5dXFuUVEybU9EUVZSMFBXbnZiYmwzSEMwbVJ6NkJxb2psVStQNXhOVTNnPT0YACACKAIwuPvUufqo+wI4k4PamJYwQIKR0uPGMEocWnBQVUl6ejBnRnFuME1IS29xcUFLdndkY3djPVonIiX/////AAAABvZlVGlsc0FNZ2MrL3JpWVFvVm9YWU1qeklzMFE9ZcN+NtQS6wEICRLmAQocT3lMVkhKWTNpejNqVTJvRVZKWWFycmhWZCtBPRJmWjpBRHF0QVp3UGNHZmlRK2NWS3VZejFmYTR0ZVl0Zkt2d0pNL3VEMTJpRUJYU2FEZWEzeDVQSXRHL2JXTVRFVEhvaFFydTRYM2ExNDdjVVlNNlo0YkVRb21sYmVHUXRRY1N3UT09GAAgAigCMLj71Ln6qPsCOMOdvt2xL0CCkdLjxjBKHFoweHJjTkxZbU15MExBQmRqQ1BtMEVCR3J3WT1aHiIcaWtQa1BNd3pleEtmSTE0U3V0biszVGxnazhBPWWLoIzREvMBCBoS7gEKHHg1dFJ1M0FMOTFMOFc2bTE5ZDhRclFXdkE5Zz0SZlo6QURxdEFad1BjR2ZpUStjVkt1WXoxZmE0dGVZdE1YWnBqMVdKZWpBV29BOUpndHVBeGVPQWlqRllpaHpRNVVhYWhVZ2c5V3ZndEdYTUl4d3Q0WUs4aGZNcnBhM3Y1Q2R6aWc9PRgAIAIoAjC4+9S5+qj7AjjezNSdxjBAgpHS48YwShxyUmJMdnZyaFJmM3d6czZNZXB5YVQzajQvWE09WiYiJP////8AAAAKYU4zNzBWR3dZNndoODc1ZlhTN2Y3b0FjYnhZPWU4+TkzEuwBCAsS5wEKHGIwSUtrN2N1c01xY2VVSWZXUGwvUk9kdzYxOD0SZlo6QURxdEFad1BjR2ZpUStjVkt1WXoxZmE0dGVZdG11ekkrZUh4SVdZZDZQWTg1dnBHTnc1QVQ4TXFGUkErcEpSLy9sMWtSOVhTM2p5QkJ4RnJ3TzEvWU5hbzhLVyswOGltTnc9PRgAIAIoAjC4+9S5+qj7AjjDnb7dsS9AgpHS48YwShw2ejlHN3hEZTYzTklhbWhCZFNxYzJjbWpEK3M9Wh8iHe1NbjI5UWpTbnV1bm5xanY0NWNDK2xyVENqdUE9ZcXPkAES9AEIFxLvAQocbkxJaFlUN3FDLzlOSFMwYUVrc283NERKUVpnPRJmWjpBRHF0QVp3UGNHZmlRK2NWS3VZejFmYTR0ZVl0akxrN1hXTDFFM0t5aFFHZVdDQ3FhdEtkYzgreXdEZzQwa2dqYjBJdm44VE5tK0U4YjhrU2VjYm9IL3E3bzJVeWliVEJ1UT09GAAgAigCMLj71Ln6qPsCOIPYnr/EMECCkdLjxjBKHE5EVVBkTGh1Y0VGNTZ0NkI1NGZXTnZxSjdVcz1aJyIl/////wAAAAn3MHNNQzZKWkFkTlBBbDgvWWhNT3FYMEdMTmJVPWU4+TkzEvQBCBYS7wEKHDBDK1VoKzVKZC9lbmNqUk5ncURjemo0ZWU3UT0SZlo6QURxdEFad1BjR2ZpUStjVkt1WXoxZmE0dGVZdHB6Z3ZTUWhCUmZKVDNiNGpwYkRaMkYydUZxYXZmaCsybzBPZHBXRVh1TEd4ZWEySjZONVpBVjJqa3ZaS2pKUkZLREJvT3c9PRgAIAIoAjC4+9S5+qj7AjiCgpu/xDBAgpHS48YwShxNZVp3UzlWSU5RUDlMNnpXdUJ3ZVBsU3VaU2M9WiciJf////8AAAAJ7kwycUl3cXgzVGh0L0kxeHpuUzUzMXV3K1AxWT1lOPk5MxL0AQgQEu8BChxUVEcvY1VpUUc4RCtiN0ZhNmZVeVRkY3c4QXM9EmZaOkFEcXRBWndQY0dmaVErY1ZLdVl6MWZhNHRlWXRvWlBFRmxLaVJnOWgxRzZsOVZ3OHZCeGlmYlBLOXlXZE00b2JCVkJ5cm1oNXFaK0dCcWh2dk9LS1JLdmZBK01lRW14NC9RPT0YACACKAIwuPvUufqo+wI4lY+Vya0wQIKR0uPGMEocek1rS3hFR0Z5VU1vZXRSQS9yL2hkV3AxNjM4PVonIiX/////AAAACPc4bkovQm1uRGZZTlFpUk9sZE9qcGpSUHFOd1U9ZTj5OTMSqwEIARKmAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRJOWjpBRHF0QVp5TkRVaWhJU0cxS3BZSklXQVpsanc5SzVOSVhkWHJ0N2RyOG5pazQ0VGNzN3JsUGxhdDRkWUxGQXZwbGxFV1BCbTQvdzJOGAAgACgAMNzZmfCOp/sCOABAAEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAAS9AEIERLvAQocM2wxL0MzYVk3RUtnVndFOGgxOXdJMjFBZ1RnPRJmWjpBRHF0QVp3UGNHZmlRK2NWS3VZejFmYTR0ZVl0Z3NQRDlNOEFYMW5mWVptWEdvWElLNnQ3V1NVL0ZTam1wWVVZK09YWkJkaHF0ZnlhWTFZVjl6OFVPcXdVZGw0c0VmNjFRUT09GAAgAigCMLj71Ln6qPsCOK60sauvMECCkdLjxjBKHGtmZFV5ckV0RHR2UU9DTkFBckdFS3l2UW4ycz1aJyIl/////wAAAAj7bWVYSWd3VnMyblhwM3dBSGRrcHUxeGNjNXpFPWU4+TkzEuwBCAoS5wEKHEFxWktPakpaZFF3TlpWc0pzNDlPc0NRTTFyZz0SZlo6QURxdEFad1BjR2ZpUStjVkt1WXoxZmE0dGVZdDhOakdXQ0UrNVJzaVg2SHFIbFNYcERwY1A1aTg5eVptTzVqVVNOQldsYlpIYjNqTEkrY2owZWttUXYzZ3hENnBtbmI1NlE9PRgAIAIoAjC4+9S5+qj7AjjDnb7dsS9AgpHS48YwShx6NENHTGc1M0dNZlVueHZ3aHYxM29qZ2EyN2M9Wh8iHbQ4dmZtU3hVZ0hFK283b3gyVEwvTVQ1RGNnK289ZTj5OTMS9AEIDhLvAQocNW43c2hKTG1VNzJXdUxmS2FwMWVpRzRIeHJzPRJmWjpBRHF0QVp3UGNHZmlRK2NWS3VZejFmYTR0ZVl0cGdxQVFISjhRNlJ1UDkrQ0Fmem44ZXExOHM5Z2cyLys5OWY2a2pJWnFNUlpueEJWNEFjTEVBZWRkZW84RnlNQ0lCdEx1dz09GAAgAigCMLj71Ln6qPsCOJCWtIWXMECCkdLjxjBKHFk4M1VLaGZFa2o2MjhKcFJYQlRuN2R2UzU1WT1aJyIl/////wAAAAekRCtmWTZyeUVCL29CeWVHSFoxaldPaWdVRWQ0PWU4+TkzEvQBCBkS7wEKHHpLei8vZ0hGUFJzbjJYd3ZEckxqKzlXMjFMZz0SZlo6QURxdEFad1BjR2ZpUStjVkt1WXoxZmE0dGVZdEFoL2lnZDZJSG50MnJzY2kwSy9WQ1JwMWNmZDNNUmNOczBsSmJXeERabHVNTmYxbUVsZFJFNHUrYWI4akZWa2tPWm8zcXc9PRgAIAIoAjC4+9S5+qj7AjiK26G/xDBAgpHS48YwShxkL01nWDEzRW9EQnNhYzVpMElQdFQwaDFRTGc9WiciJf////8AAAAJ/WJTdFRhNHZFcnhTTVg0MlVMWmR1ZldrNHk3VT1lOPk5MxLzAQgTEu4BChxWWDNWNE50TXV6eW5wcXhLUTlxUmROUVJDNDg9EmZaOkFEcXRBWndQY0dmaVErY1ZLdVl6MWZhNHRlWXQxUjQxaG4vUkRrSldYSklxaEJrczdkYUpJUVB3N0pPR092Um9MekhTakp3cUxKYmpjN0I2UHVWOWE0TVVndXNlZS9NTVRnPT0YACACKAIwuPvUufqo+wI4jtDrr8QwQIKR0uPGMEocVUR1bGF1b0xpY1ZUQWdBdnIrV1NQUi9xN3pVPVomIiT/////AAAACXA0VkpML0VvWkxkM3BVbTNIamhrOGxmT2VwWT1lOPk5MxLsAQgMEucBChxxTTI4ZVRZMlI0RW5OWVpFTzJWMXR4NmVrdWM9EmZaOkFEcXRBWndQY0dmaVErY1ZLdVl6MWZhNHRlWXR3VjdCVy91cHNsVjFUdFVDNFN5bVREYkRyYWdvdWJiSHdNaXZWZ3FEYTBHTFp5dU1RQTZKbzBDU2tQOWpHRHBEdTkrZTFBPT0YACACKAIwuPvUufqo+wI4yeKyz8YvQIKR0uPGMEocOFJVcFdLNzR2MEdoU0NocmlBL2srYWJCLzFjPVofIh37dmNBRFJpVEJVSVJxOGNLUFFaWU4zYXhmcmprPWWY16RTEvMBCBIS7gEKHEhmbTU3VW5kQThZV0xBZDdab2hsc3B5NFlIVT0SZlo6QURxdEFad1BjR2ZpUStjVkt1WXoxZmE0dGVZdDZVTThvSWZEYjllYmcyQjVxNUdySU9YZ1ZiSDVvZFladFNhemVpaHJpREJnWVlINmdCa1lUZHBHQkhhZnlhb0VBcmdFN2c9PRgAIAIoAjC4+9S5+qj7AjiBz+avxDBAgpHS48YwShxxS0p0MTdCRjlEcVM1MHlqUlB6dnNTUTBrVGM9WiYiJP////8AAAAJMHlYaCtUMGVZMnE1YnBEQWxSMHZkNC91SHhnPWU4+TkzEvQBCBgS7wEKHEd3RThGdU9DRHBIYmNuV3lVRHpTMFV2RzdIOD0SZlo6QURxdEFad1BjR2ZpUStjVkt1WXoxZmE0dGVZdHd5c1BBd0RWK05BVHhHS1NwWXBhZUtvV1p6bDBrV0ZSazBqNnl6eUNwcmhYR0dhV0JxdEJTWU1yOTVrYVBaUDlvK2dIWmc9PRgAIAIoAjC4+9S5+qj7Ajib65+/xDBAgpHS48YwShwrTlYwcHFML3JIYVMyT3A3UmlFR1lZTUVCdjg9WiciJf////8AAAAJ+1JZYVpsRFBmcTBXTG4veG5NRmVNTGl5OU9uWT1lOPk5MzABOAA=",
+   "version": 1
+}
